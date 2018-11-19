@@ -1,21 +1,21 @@
 # stackoverflow Survey analysis 2018
 
-### Reason
+### Project Motivation
 The purpose of this analysis was trying to answer the following questions
 * Employment break down and their contribution to Open source Projects
 * Students break down and their contribution to Open source Projects
-* Top specialties 
-* Most used languages
-* Most used DBs
-* Most used Frameworks
-* Job satisfaction level
+* What are top specialties in the market
+* What are the most used languages
+* What are the most used DB engines
+* What are most used Frameworks
+* How is job satisfaction level among developers
 * Developer habits and how does it affect job satisfaction level
-* Income Distribution
-* Male vs Female in terms of all what has mentioned above
+* How is income Distribution
+* What are the difference between Males and Females in terms of all what has mentioned above
 
 ### considerations
 1. i choose to work with the data for the top 15 contributors countries as they are covering 4 continents 
-2. on the other hand their where alot of missing attributes which could affect the findings regarding the hights paid roles and salary distributions
+2. on the other hand their where a lot of missing attributes which could affect the findings regarding the hights paid roles and salary distributions
 3. Most of the contributors were among Males
 
 ### Libraries
